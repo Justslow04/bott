@@ -1,9 +1,9 @@
 const Discord = require('discord.js')
 const client = new Discord.Client();
 // توكن البوت
-var token = "bot.token";
+var token = "NTEwNTUzMDQzNDExMTQwNjE5.Xo-nAA.H3tzhJMvXrRMpPzN2eoUdE86Kts";
 // الاختصار المستخدم في الاوامر
-var prefix = "$";
+var prefix = "#";
  // نشاط البوت
 var activity = prefix + "help to get help!";
  // حالة البوت
